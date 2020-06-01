@@ -1,18 +1,18 @@
-.qa h1{
-  font-size: 20px;
+body{
+  text-align: center;
+  margin-top: 100px;
+  background: url('../assets/bg_nooklings.jpg');
+  background-size: contain;
 }
 h1{
-  margin-bottom: 40px;
+  font-family: 'Patrick Hand', cursive;
 }
-h2 {
-  margin-top: 40px;
+img{
+  max-width: 100px;
 }
-
-body{
-  margin: 20px 20px;
-  background-color: #DFF2D8;
-}
-
-nav{
-  margin-top: 20px;
-}
+div{
+  padding: 24px;
+  margin: 0 12px;
+  background-color: #fff;
+  border: 2px solid black;
+  border-radius: 15px;
